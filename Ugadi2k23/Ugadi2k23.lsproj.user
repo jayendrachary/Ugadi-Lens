@@ -1,0 +1,91 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1678773852070703:208838"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "7354812_42008-removebg-preview"
+                ],
+                [
+                    "Color Correction"
+                ],
+                [
+                    "Happy_Ugadi_Clipart_PNG_Images__Traditional_Ugadi_Elements__Fastival__Indian__Ugadi_Festival_PNG_Image_For_Free_Download-removebg-preview"
+                ],
+                [
+                    "Pacifico"
+                ],
+                [
+                    "Smoothing"
+                ],
+                [
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "Beauty"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture"
+                ],
+                [
+                    "Thoranalu1-removebg-preview"
+                ],
+                [
+                    "uf-transformed__1_-removebg-preview-removebg-preview"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            []
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1678766399554956:417712": "C:/Users/gpard/OneDrive/Desktop/Ugadi Resources/Thoranalu1-removebg-preview.png",
+            "1678771486032344:4199": "C:/Users/gpard/Downloads/uf-transformed__1_-removebg-preview-removebg-preview.png",
+            "1678773852222487:208893": "C:/Users/gpard/AppData/Local/Snap/Lens Studio/cache/temp/StudiopqGjRnEJDXcC//system//emergencyFiles/emergencyJpg.jpg",
+            "1678774622557454:286755": "C:/Users/gpard/Downloads/7354812_42008-removebg-preview.png",
+            "1678774767577761:298988": "C:/Users/gpard/Downloads/Happy_Ugadi_Clipart_PNG_Images__Traditional_Ugadi_Elements__Fastival__Indian__Ugadi_Festival_PNG_Image_For_Free_Download-removebg-preview.png",
+            "1678775696394863:443333": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle//Presets/Fonts/Pacifico-Regular.ttf"
+        }
+    },
+    "InspectorController": {
+        "selection": null
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}

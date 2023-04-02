@@ -1,0 +1,79 @@
+{
+    "1678766399530946:417709": {
+        "IFileManager": {
+            "path": "Files/File_1678766399530946_417709.pvr"
+        }
+    },
+    "1678766399554956:417712": {
+        "IResourceController": {
+            "name": "Thoranalu1-removebg-preview",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678766399566467:417713",
+            "fileId": "1678766399530946:417709",
+            "originalId": "1678766399567251:417718",
+            "publicId": "1678766399627323:417724",
+            "expected_hash": "d110182f3f15fc9b4a886b1dd7f8eeca",
+            "additional": {
+                "originHash": "f6f61d3aac7694ca28df3051f1e293da"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1678766399566467:417713",
+            "name": "Files/File_1678766399530946_417709.png",
+            "flags": 1
+        }
+    },
+    "1678766399566467:417713": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "f6f61d3aac7694ca28df3051f1e293da"
+                    },
+                    "v": "1678766401697379:417954"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "125904",
+                "compressedSize": "65975",
+                "extension": "png",
+                "originalRAM": "997084",
+                "originalSize": "247387",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1678766399583652:417721"
+        }
+    },
+    "1678766399567251:417718": {
+        "IFileManager": {
+            "path": "Files/File_1678766399567251_417718.png"
+        }
+    },
+    "1678766399583652:417721": {
+        "IFileManager": {
+            "path": "Files/File_1678766399583652_417721.png"
+        }
+    },
+    "1678766399627323:417724": {
+        "IResourceController": {
+            "public": {
+                "path": "Thoranalu1-removebg-preview.png",
+                "hash": "f6f61d3aac7694ca28df3051f1e293da"
+            }
+        }
+    },
+    "1678766401697379:417954": {
+        "IFileManager": {
+            "path": "Files/File_1678766401697379_417954.pvr"
+        }
+    }
+}

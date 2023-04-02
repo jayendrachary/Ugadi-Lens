@@ -1,0 +1,79 @@
+{
+    "1678774622540196:286752": {
+        "IFileManager": {
+            "path": "Files/File_1678774622540196_286752.pvr"
+        }
+    },
+    "1678774622557454:286755": {
+        "IResourceController": {
+            "name": "7354812_42008-removebg-preview",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678774622578675:286756",
+            "fileId": "1678774622540196:286752",
+            "originalId": "1678774622579264:286761",
+            "publicId": "1678774622630595:286767",
+            "expected_hash": "112c1b6627bcd9ffc20af4ee7d4653ad",
+            "additional": {
+                "originHash": "1e883c82fdfd1ddc2cc88c48b110f11e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1678774622578675:286756",
+            "name": "Files/File_1678774622540196_286752.png",
+            "flags": 1
+        }
+    },
+    "1678774622578675:286756": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "1e883c82fdfd1ddc2cc88c48b110f11e"
+                    },
+                    "v": "1678774624209375:287375"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "125664",
+                "compressedSize": "52920",
+                "extension": "png",
+                "originalRAM": "997964",
+                "originalSize": "174891",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1678774622596657:286764"
+        }
+    },
+    "1678774622579264:286761": {
+        "IFileManager": {
+            "path": "Files/File_1678774622579264_286761.png"
+        }
+    },
+    "1678774622596657:286764": {
+        "IFileManager": {
+            "path": "Files/File_1678774622596657_286764.png"
+        }
+    },
+    "1678774622630595:286767": {
+        "IResourceController": {
+            "public": {
+                "path": "7354812_42008-removebg-preview.png",
+                "hash": "1e883c82fdfd1ddc2cc88c48b110f11e"
+            }
+        }
+    },
+    "1678774624209375:287375": {
+        "IFileManager": {
+            "path": "Files/File_1678774624209375_287375.pvr"
+        }
+    }
+}

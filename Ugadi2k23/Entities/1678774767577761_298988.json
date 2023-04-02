@@ -1,0 +1,79 @@
+{
+    "1678774767526796:298985": {
+        "IFileManager": {
+            "path": "Files/File_1678774767526796_298985.pvr"
+        }
+    },
+    "1678774767577761:298988": {
+        "IResourceController": {
+            "name": "Happy_Ugadi_Clipart_PNG_Images__Traditional_Ugadi_Elements__Fastival__Indian__Ugadi_Festival_PNG_Image_For_Free_Download-removebg-preview",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1678774767588285:298991",
+            "fileId": "1678774767526796:298985",
+            "originalId": "1678774767589340:298996",
+            "publicId": "1678775639372844:438493",
+            "expected_hash": "892aef90b0f647313dd85fff5fde118b",
+            "additional": {
+                "originHash": "38c3f2724ecaf2f092b4c671e7849926"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1678774767588285:298991",
+            "name": "Files/File_1678774767526796_298985.png",
+            "flags": 1
+        }
+    },
+    "1678774767588285:298991": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "38c3f2724ecaf2f092b4c671e7849926"
+                    },
+                    "v": "1678774767980707:299538"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "125000",
+                "compressedSize": "37284",
+                "extension": "png",
+                "originalRAM": "1000000",
+                "originalSize": "140474",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1678774767604837:298997"
+        }
+    },
+    "1678774767589340:298996": {
+        "IFileManager": {
+            "path": "Files/File_1678774767589340_298996.png"
+        }
+    },
+    "1678774767604837:298997": {
+        "IFileManager": {
+            "path": "Files/File_1678774767604837_298997.png"
+        }
+    },
+    "1678774767980707:299538": {
+        "IFileManager": {
+            "path": "Files/File_1678774767980707_299538.pvr"
+        }
+    },
+    "1678775639372844:438493": {
+        "IResourceController": {
+            "public": {
+                "path": "Happy_Ugadi_Clipart_PNG_Images__Traditional_Ugadi_Elements__Fastival__Indian__Ugadi_Festival_PNG_Image_For_Free_Download-removebg-preview.png",
+                "hash": "38c3f2724ecaf2f092b4c671e7849926"
+            }
+        }
+    }
+}
