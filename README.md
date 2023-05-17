@@ -15,4 +15,4 @@ Ugadi is a traditional New Year festival celebrated in the southern states of In
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/jayendrachary/SnapLens.git
+git clone https://github.com/jayendrachary/Ugadi-Lens.git
