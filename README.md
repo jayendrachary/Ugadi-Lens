@@ -4,7 +4,7 @@
 
 ## Ugadi Lens Preview
 
-![Ugadi Lens Preview](https://community-lens.storage.googleapis.com/preview-media/final/0e68d7b0-b2d7-48ca-bda5-748576bf6b1e.mp4)
+![Ugadi Lens Preview](https://community-lens.storage.googleapis.com/preview-media/final/0e68d7b0-b2d7-48ca-bda5-748576bf6b1e)
 
 SnapLens is a powerful image editing tool that allows you to add fun and creative filters to your photos. With SnapLens, you can easily transform your images into stunning visual masterpieces.
 
